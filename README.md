@@ -4,7 +4,7 @@
 
 I'm a passionate web developer with a Bachelor's degree in Computer Science, specializing in full-stack development and utilizing technologies like React, NextJs, MERN stack, and PERN stack. I'm committed to continuous learning and collaboration, aiming to create innovative, user-friendly web applications that meet client and end-user needs. With a strong foundation in design and programming, I'm passionate about delivering seamless and visually appealing digital experiences. My goal is to leverage my expertise to enhance your web projects and drive success in the ever-evolving digital space.
 
-Skills: REACT / JS / HTML / CSS / NextJs/ MongoDB/ PostgresSQL/ Node/ ExpressJS/ Firebase/ Prisma
+Skills: REACT / JS / TS / HTML / CSS / NextJs/ MongoDB/ PostgreSQL/ Node/ ExpressJS/ Firebase/ Prisma
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning NextJS 
