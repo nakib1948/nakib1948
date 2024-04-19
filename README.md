@@ -6,7 +6,6 @@ I'm a passionate web developer with a Bachelor's degree in Computer Science, spe
 
 Skills: REACT / JS / TS / HTML / CSS / NextJs/ MongoDB/ PostgreSQL/ Node/ ExpressJS/ Firebase/ Prisma
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning NextJS 
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: www.linkedin.com/in/hayat-hossain7 
