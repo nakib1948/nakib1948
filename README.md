@@ -2,7 +2,9 @@
 #### A passionate web developer from Bangladesh.
 ![A passionate web developer from Bangladesh.](https://i.ibb.co/G7CNCL1/1693384554148.jpg)
 
-I'm a passionate web developer with a Bachelor's degree in Computer Science, specializing in full-stack development and utilizing technologies like React, NextJs, MERN stack, and PERN stack. I'm committed to continuous learning and collaboration, aiming to create innovative, user-friendly web applications that meet client and end-user needs. With a strong foundation in design and programming, I'm passionate about delivering seamless and visually appealing digital experiences. My goal is to leverage my expertise to enhance your web projects and drive success in the ever-evolving digital space.
+Hi there! I'm Hayat, a passionate Full Stack Web Developer. I recently earned my Bachelor of Science in Computer Science and Engineering from the International Islamic University Chittagong. I have a solid foundation in technologies such as Node.js, React,Next.js, MongoDB, and PostgreSQL. I'm deeply committed to continuous learning and regularly keep up with industry trends to ensure my projects incorporate the latest advancements. I thrive in collaborative environments and believe that teamwork and diverse perspectives are key to innovative solutions. I'm dedicated to applying my knowledge and skills to create meaningful and efficient web applications. 
+             
+With a professional and enthusiastic approach, I am eager to bring my expertise, dedication, and enthusiasm to a forward-thinking organization. I am straightforward, confident, and enjoy engaging with others, always striving to be kind and compassionate in my interactions.
 
 Skills: REACT / JS / TS / HTML / CSS / NextJs/ MongoDB/ PostgreSQL/ Node/ ExpressJS/ Firebase/ Prisma
 
