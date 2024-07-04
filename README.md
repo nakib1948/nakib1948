@@ -18,7 +18,7 @@ With a professional and enthusiastic approach, I am eager to bring my expertise,
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)
 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -54,9 +54,6 @@ With a professional and enthusiastic approach, I am eager to bring my expertise,
 - 🌱 I’m currently learning GraphQL 
 - 👯 I’m looking to collaborate on GitHub  
 - 📫 How to reach me: www.linkedin.com/in/hayat-hossain7 or hayathossain7@gmail.com
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nakib1948)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/hayat-hossain7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/HayatHossainNChowdhury/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hayat-hossain-portfolio.netlify.app/)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakib1948)](https://github.com/anuraghazra/github-readme-stats)            ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nakib1948&show_icons=true&count_private=true) 
