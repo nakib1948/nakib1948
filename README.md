@@ -20,6 +20,6 @@ Skills: REACT / JS / TS / HTML / CSS / NextJs/ MongoDB/ PostgreSQL/ Node/ Expres
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakib1948)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nakib1948&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nakib1948&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=nakib1948)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nakib1948)  
+
