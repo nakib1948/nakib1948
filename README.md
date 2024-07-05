@@ -7,6 +7,10 @@ Hi there! I'm Hayat, a passionate Full Stack Web Developer. I recently earned my
              
 With a professional and enthusiastic approach, I am eager to bring my expertise, dedication, and enthusiasm to a forward-thinking organization. I am straightforward, confident, and enjoy engaging with others, always striving to be kind and compassionate.
 
+- 🌱 I’m currently learning GraphQL 
+- 👯 I’m looking to collaborate on GitHub  
+- 📫 How to reach me: www.linkedin.com/in/hayat-hossain7 or hayathossain7@gmail.com
+
 ## Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/HayatHossainNChowdhury/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/nakib1948)
@@ -48,12 +52,6 @@ With a professional and enthusiastic approach, I am eager to bring my expertise,
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
-
-- 🌱 I’m currently learning GraphQL 
-- 👯 I’m looking to collaborate on GitHub  
-- 📫 How to reach me: www.linkedin.com/in/hayat-hossain7 or hayathossain7@gmail.com
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakib1948)](https://github.com/anuraghazra/github-readme-stats)            ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nakib1948&show_icons=true&count_private=true) 
 
