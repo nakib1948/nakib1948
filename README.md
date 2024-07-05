@@ -8,10 +8,10 @@ Hi there! I'm Hayat, a passionate Full Stack Web Developer. I recently earned my
 With a professional and enthusiastic approach, I am eager to bring my expertise, dedication, and enthusiasm to a forward-thinking organization. I am straightforward, confident, and enjoy engaging with others, always striving to be kind and compassionate.
 
 ## Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HayatHossainNChowdhury/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nakib1948)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayat-hossain7/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayathossain7@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/HayatHossainNChowdhury/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/nakib1948)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayat-hossain7/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hayathossain7@gmail.com)
 
 ## Languages and Tools:
 
